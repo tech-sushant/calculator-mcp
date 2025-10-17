@@ -2,7 +2,7 @@
   "name": "@tech-sushant/calculator-mcp",
   "version": "1.0.0",
   "description": "A simple Model Context Protocol calculator server",
-  "mcpName":"io.github.tech-sushant/calculator-mcp",
+  "mcpName": "io.github.tech-sushant/calculator-mcp",
   "main": "dist/index.js",
   "type": "module",
   "scripts": {
