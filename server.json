@@ -10,7 +10,6 @@
   "packages": [
     {
       "registryType": "npm",
-      "registryBaseUrl": "https://registry.npmjs.org",
       "identifier": "@tech-sushant/calculator-mcp",
       "version": "1.0.0",
       "transport": {
