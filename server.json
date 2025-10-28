@@ -11,7 +11,7 @@
     {
       "registryType": "npm",
       "identifier": "@tech-sushant/calculator-mcp",
-      "version": "1.0.2",
+      "version": "1.0.3",
       "transport": {
         "type": "stdio"
       }
